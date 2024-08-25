@@ -25,15 +25,19 @@ Want food delivered to your doorstep at dawn tomorrow? No app needed. Just give 
 
   - Framework / Library
     - <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    - <img src="https://img.shields.io/badge/ChatGPT--4o_API-000000?style=for-the-badge&logo=openai&logoColor=white">
+
+  - Deployment
+    - <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 
 - :computer: __Back-End__
 
   - Language
     - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    - <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
   - Framework / Library
-    - <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     - <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
   - Database
@@ -43,6 +47,11 @@ Want food delivered to your doorstep at dawn tomorrow? No app needed. Just give 
     - <img src="https://img.shields.io/badge/pixabayapi-0288D1?style=for-the-badge&logo=photoshop&logoColor=white" alt="pixabayapi badge"> 
     - <img src="https://img.shields.io/badge/Blend.ai_API-000000?style=for-the-badge&logo=blend&logoColor=white" alt="Blend.ai API badge"> 
     - <img src="https://img.shields.io/badge/Rapid_Food_Recipe_API-FF5722?style=for-the-badge&logo=food&logoColor=white" alt="Rapid Food Recipe API badge">
+    - <img src="https://img.shields.io/badge/Naver_Papago_Translate_API-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Papago Translate API badge">
+
+  - Tools
+    - <img src="https://img.shields.io/badge/ngrok-1F1E1F?style=for-the-badge&logo=ngrok&logoColor=white">
+    - <img src="https://img.shields.io/badge/ChatGPT--4o-000000?style=for-the-badge&logo=openai&logoColor=white">
 
 ## Running
 Run the flask server in the `llm` directory by running `python -m flask --app server run`.
@@ -55,3 +64,5 @@ Visit our ["TV app"](https://hack06.vercel.app/) which is a mock of what a smart
 
 Make a phone call to the US phone number +14156501485 and talk to the Coupang agent, with a specialty in Korean food, to order whatever you would like.
 
+## 🏆 Award
+Grand Winner at the 2024 Coupang AngelHack Seoul
